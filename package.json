@@ -1,13 +1,13 @@
 {
   "name": "app-de-recetas-cruzado",
   "version": "1.0.0",
-  "description": "Aplicación móvil para descubrir, compartir recetas culinarias y conectar con amantes de la cocina", 
+  "description": "Aplicación móvil para descubrir, compartir recetas culinarias y conectar con amantes de la cocina",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo 'Error: no test specified' && exit 1"
   },
-  "author": "Tu Nombre",
+  "author": "Nuevo Autor",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
