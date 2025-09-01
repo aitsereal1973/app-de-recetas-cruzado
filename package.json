@@ -1,0 +1,18 @@
+{
+  "name": "app-de-recetas-cruzado",
+  "version": "1.0.0",
+  "description": "Aplicación móvil para descubrir y compartir recetas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "react": "^17.0.2",
+    "react-native": "^0.64.0"
+  }
+}
