@@ -1,7 +1,7 @@
 {
   "name": "app-de-recetas-cruzado",
   "version": "1.0.0",
-  "description": "Aplicación móvil para descubrir y compartir recetas",
+  "description": "Aplicación móvil para descubrir, compartir recetas culinarias y conectar con amantes de la cocina", 
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
